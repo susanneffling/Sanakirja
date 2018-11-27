@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_161" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>vene</string>
+   <string>boat</string>
+  </void>
+  <void method="put">
+   <string>auto</string>
+   <string>car</string>
+  </void>
+  <void method="put">
+   <string>koira</string>
+   <string>dog</string>
+  </void>
+  <void method="put">
+   <string>hevonen</string>
+   <string>horse</string>
+  </void>
+  <void method="put">
+   <string>hiiri</string>
+   <string>mouse</string>
+  </void>
+  <void method="put">
+   <string>kissa</string>
+   <string>cat</string>
+  </void>
+  <void method="put">
+   <string>kala</string>
+   <string>fish</string>
+  </void>
+  <void method="put">
+   <string>kana</string>
+   <string>hen</string>
+  </void>
+ </object>
+</java>
